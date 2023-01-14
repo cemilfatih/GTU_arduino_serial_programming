@@ -31,7 +31,7 @@ int main() {
 // Printing the welcome menu
   printf(
   "## WELCOME TO GTU ARDUINO LAB        ##\n"
-  "## STUDENT NAME: OSMANCAN BOZALI     ##\n"
+  "## STUDENT NAME: CEMIL FATIH YOL    ##\n"
   "## PLEASE SELECT FROM THE FOLLOWING  ##\n"
   "## MENU :                            ##\n"
   );
